@@ -7,6 +7,7 @@ This project presents an Exploratory Data Analysis (EDA) of restaurant data extr
 The main objective of the analysis is to explore how factors such as dietary inclusivity, cuisine diversity, pricing level, geographical location and Tripadvisor profile management relate to customer satisfaction and restaurant popularity.
 
 The project follows a modular and reproducible Data Science workflow including data cleaning, feature engineering, visualization and analytical interpretation.
+Due to GitHub file size limitations, the raw dataset is not included in this repository. Please download the dataset from the Kaggle link above and place it inside the `data/raw/` directory before running the project.
 
 ---
 
@@ -16,6 +17,7 @@ The project follows a modular and reproducible Data Science workflow including d
 - **Source:** Kaggle
 - **Original Dataset Link:**  
 https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants
+
 
 The original dataset contains restaurant information from multiple European countries. For this project, the dataset was filtered to include only restaurants located in Spain.
 
