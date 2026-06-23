@@ -23,6 +23,22 @@ The original dataset contains restaurant information from multiple European coun
 
 ---
 
+## Dataset Summary
+
+- Original dataset: Tripadvisor European Restaurants
+- Selected country: Spain
+- Unit of analysis: restaurants
+- Main variables analysed:
+  - Customer rating
+  - Price level
+  - Region
+  - Cuisine types
+  - Dietary options
+  - Tripadvisor profile status
+- Dataset not included in this repository due to file size limitations.
+
+---
+
 ## Project Objectives
 
 The analysis aims to answer the following research questions:
@@ -106,18 +122,25 @@ All visualizations include analytical interpretation and business-oriented insig
 
 ---
 
-## Main Findings
+## Visualizations
 
-- Restaurants offering more dietary options tend to show more stable and consistently positive ratings.
+The project includes several visualizations to support the analysis, including:
 
-- Premium restaurants generally achieve higher median popularity levels, although highly popular restaurants exist across all pricing categories.
+- Rating distribution by dietary options
+- Popularity distribution by price level
+- Average ratings by Spanish region
+- Rating distribution by cuisine diversity
+- Rating comparison between claimed and unclaimed profiles
 
-- The Canary Islands and Balearic Islands present the highest average restaurant ratings among the most represented Spanish regions.
+---
 
+## Business Insights
+
+- Restaurants offering more dietary options tend to show more stable and consistently positive customer ratings.
+- Premium restaurants generally achieve higher median popularity levels, although high popularity can also be found across lower pricing categories.
+- The Canary Islands and Balearic Islands show some of the highest average restaurant ratings among the most represented Spanish regions.
 - Restaurants with broader cuisine diversity tend to maintain more concentrated positive rating distributions.
-
 - Claimed Tripadvisor profiles show slightly more stable customer evaluations compared to unclaimed establishments.
-
 ---
 
 ## Technologies Used
