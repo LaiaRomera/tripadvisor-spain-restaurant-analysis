@@ -124,13 +124,17 @@ All visualizations include analytical interpretation and business-oriented insig
 
 ## Visualizations
 
-The project includes several visualizations to support the analysis, including:
+A combination of statistical visualizations was used to explore relationships between restaurant characteristics and customer behavior.
 
-- Rating distribution by dietary options
-- Popularity distribution by price level
-- Average ratings by Spanish region
-- Rating distribution by cuisine diversity
-- Rating comparison between claimed and unclaimed profiles
+The analysis includes:
+
+* Distribution analysis to understand rating patterns.
+* Boxplots to compare customer ratings across restaurant categories.
+* Popularity comparisons across pricing levels.
+* Regional aggregations to identify geographic trends.
+* Cuisine diversity analysis to evaluate the relationship between restaurant variety and customer satisfaction.
+
+All visualizations were designed to support analytical interpretation and business-oriented insights rather than descriptive reporting alone.
 
 ---
 
@@ -141,6 +145,35 @@ The project includes several visualizations to support the analysis, including:
 - The Canary Islands and Balearic Islands show some of the highest average restaurant ratings among the most represented Spanish regions.
 - Restaurants with broader cuisine diversity tend to maintain more concentrated positive rating distributions.
 - Claimed Tripadvisor profiles show slightly more stable customer evaluations compared to unclaimed establishments.
+
+---
+
+## Key Visual Insights
+
+### Average Restaurant Rating by Region
+
+![Average Rating by Region](images/average_rating_by_region.jpg)
+
+The Canary Islands and Balearic Islands show the highest average restaurant ratings among the most represented Spanish regions.
+
+### Restaurant Popularity by Price Level
+
+![Popularity by Price Level](images/popularity_by_price_level.jpg)
+
+Premium restaurants tend to achieve higher median popularity levels, although highly popular restaurants can be found across all price categories.
+
+### Restaurant Ratings by Dietary Options
+
+![Ratings by Dietary Options](images/ratings_by_dietary_options.jpg)
+
+Restaurants offering a broader range of dietary options tend to maintain more stable and consistently positive ratings.
+
+### Restaurant Ratings by Cuisine Variety
+
+![Ratings by Cuisine Variety](images/ratings_by_cuisine_variety.jpg)
+
+Restaurants with greater cuisine diversity show more concentrated positive rating distributions, suggesting broader customer appeal.
+
 ---
 
 ## Technologies Used
